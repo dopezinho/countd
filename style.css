@@ -1,14 +1,17 @@
 body {
-    background-color: #fffccc;
-    color: #3fdea9;
+    background-color: #fffccc; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
 header {
-    color: #3fdea9;
+    color: #360f0f;
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: 33vw;
     margin-top: 20px;
+}
+
+.timer {
+    color: #924417;
 }
